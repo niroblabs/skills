@@ -12,6 +12,7 @@ Each folder is a self-contained [agent skill](https://agentskills.io/specificati
 | **viral-idea-generator** | You want viral product ideas for a market (game or app/site), or want to research *why* something went viral and find trending content to borrow. |
 | **viral-feature-advisor** | You have an existing product and want improvements plus new features that make it spread — viral loops, shareable artifacts, referral, network effects. |
 | **phase-reorganizer** | A project's PRD/roadmap has drifted from reality and you want the phases re-bucketed: pull everything done into one pile, re-divide the rest by priority. |
+| **ad-hunter** | You have a URL (a landing page, redirect, or "pay" link) and want to find the paid ads pointing at it and where they run — Google, Meta, TikTok, LinkedIn. Traces redirects, reads click-IDs and tracking pixels, then searches public ad-transparency libraries and pulls the creatives. |
 
 ## Install
 
